@@ -3,5 +3,3 @@
 #### General info
 #### Technologies
 * Python
-#### Sources
-https://www.kaggle.com/code/emineyetm/multiple-linear-regression-in-python
